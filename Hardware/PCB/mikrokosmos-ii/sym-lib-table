@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mikrokosmos-ii")(type "KiCad")(uri "${KIPRJMOD}/mikrokosmos-ii.kicad_sym")(options "")(descr ""))
+)
