@@ -1,4 +1,4 @@
-(footprint "mikrokosmos-ii-panel-artc" (version 20211014) (generator pcbnew)
+(footprint "mikrokosmos-ii_panel_artc" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)

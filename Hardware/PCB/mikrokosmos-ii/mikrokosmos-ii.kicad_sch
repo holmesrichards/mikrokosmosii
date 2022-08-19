@@ -2308,6 +2308,26 @@
     )
   )
 
+  (symbol (lib_id "ao_symbols:MountingHole") (at 53.34 132.08 0) (unit 1)
+    (in_bom no) (on_board yes) (fields_autoplaced)
+    (uuid 2e4bef08-441e-4695-9f8d-6be7af5dd700)
+    (property "Reference" "H2" (id 0) (at 55.88 131.2453 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 55.88 133.7822 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "ao_tht:MountingHole_3.2mm_M3" (id 2) (at 53.34 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 53.34 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Config" "DNF" (id 4) (at 53.34 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 76.2 99.06 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 34876712-0dad-4d86-b586-f2bb8398a89f)
@@ -2900,6 +2920,9 @@
     )
     (path "/2548420e-b440-45f5-9367-4aa430075ba1"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "ao_tht:MountingHole_3.2mm_M3")
+    )
+    (path "/2e4bef08-441e-4695-9f8d-6be7af5dd700"
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "ao_tht:MountingHole_3.2mm_M3")
     )
     (path "/c7ace7a6-8630-4d4f-a859-c36885f87241"
       (reference "J1") (unit 1) (value "AudioJack2_SwitchT") (footprint "ao_tht:Jack_6.35mm_PJ_629HAN_slots")
