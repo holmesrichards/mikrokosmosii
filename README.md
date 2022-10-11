@@ -1,7 +1,3 @@
-This is a work in progress; better README to come soon. Meanwhile:
-
-**Untested hardware and software — Do not assume anything works!**
-
 # Mikrokosmos II
 
 This is a synth module in Kosmo format, inspired by Music Thing Modular's [Mikrophonie](https://www.musicthing.co.uk/Mikrophonie/). Like that module, Mikrokosmos II has a piezo pickup attached behind the front panel, and the circuit amplifies the piezo signal and sends it to the output. There is a tactile scratch area on the front panel. You can use your fingernail or a guitar pick to scrape across it and generate output. It will also pick up sounds when you tap or thump on the synth case, plug or unplug cables, and so on. People have attached springs to the front panel, even a coil spring type doorstop. There are lots of possibilities.
