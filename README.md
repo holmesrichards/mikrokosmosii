@@ -15,13 +15,11 @@ The first version of Mikrokosmos was a Kosmo conversion of the Mikrophonie circu
 Mikrophonie's name comes from that of a [composition](https://en.wikipedia.org/wiki/Mikrophonie_(Stockhausen)) by Karlheinz Stockhausen. "Mikrokosmos" is an obvious portmanteau of "Mikrophonie" and "Kosmo", and pays homage to a [collection of piano pieces](https://en.wikipedia.org/wiki/Mikrokosmos_(Bart%C3%B3k)) with that name by Béla Bartók. Apparently it also is the name of a song by BTS, but that has nothing to do with this module.
 
 ## Current draw
- mA +12 V,  mA -12 V
+? mA +12 V, ? mA -12 V
 
 ## Photos
 
-![]()
-
-![]()
+![mikrokosmos](Images/mikrokosmos.jpg)
 
 ## Documentation
 
