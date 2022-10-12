@@ -32,4 +32,4 @@ Generated from schematic by Eeschema 6.0.7-f9a2dced07~116~ubuntu22.04.1
 | | 1 | | Knob | | | | |
 | | 1 | | 8 pin DIP socket | | | Tayda | A-001 |
 | | 4 | | M3x6 screw | | | | |
-| | 2 | | 5 mm spacer | | | Tayda | A-1235 |
+| | 2 | | 10 mm spacer | | | Tayda | A-1235 |
