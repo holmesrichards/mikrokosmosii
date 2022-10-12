@@ -29,4 +29,7 @@ Generated from schematic by Eeschema 6.0.7-f9a2dced07~116~ubuntu22.04.1
 | R7 | 1 | 4.7k | Resistor | Tayda |  |
 | RV1 | 1 | A5k | Potentiometer | Tayda |  |
 | U1 | 1 | TL072 | Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8 | Tayda |  |
-    
+| | 1 | | Knob | | | | |
+| | 1 | | 8 pin DIP socket | | | Tayda | A-001 |
+| | 4 | | M3x6 screw | | | | |
+| | 2 | | 5 mm spacer | | | Tayda | A-1235 |
