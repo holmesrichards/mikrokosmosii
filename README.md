@@ -26,7 +26,7 @@ Mikrophonie's name comes from that of a [composition](https://en.wikipedia.org/w
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/microkosmosii](https://github.com/holmesrichards/microkosmosii)
+* [https://github.com/holmesrichards/mikrokosmosii](https://github.com/holmesrichards/mikrokosmosii)
 
 ## Submodules
 
